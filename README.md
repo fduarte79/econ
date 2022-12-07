@@ -9,6 +9,20 @@
 | Rico       |
 | XP         |
 
+# Renda Fixa
+
+### Indicadores Financeiros
+
++ [Índice Nacional de Preços ao Consumidor Amplo - IPCA](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=destaques)
++ [CELIC](https://www.bcb.gov.br/controleinflacao/taxaselic)
++ [Certificado de Depósito Interbancário - CDI]()
+
+### Investimentos
+
++ CDB
++ LCI
++ LCA
+
 # Referências
 
 ## YouTube - Perfis
